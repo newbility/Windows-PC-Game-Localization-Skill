@@ -8,6 +8,7 @@
 ## 安装和使用
 
 下载或克隆本仓库，把整个 [`game-localization-public` 目录](game-localization-public/) 放进客户端的技能目录。保留其中的 `SKILL.md`、`references/` 和 `scripts/`。
+**或者最简单的，直接告诉你的AI，请帮我安装这个仓库里的skill。**
 
 | 客户端 | 项目内位置 | 调用方式 |
 | --- | --- | --- |
